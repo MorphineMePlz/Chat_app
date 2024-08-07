@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "82802464653",
+    "project_id": "chat-app-fliutter",
+    "storage_bucket": "chat-app-fliutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82802464653:android:c707a1417da3918f888fc4",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD967Q0fDYWFVhhO6U954M95BRiFqmVH3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82802464653:android:4c351634a4954af0888fc4",
+        "android_client_info": {
+          "package_name": "com.example.chatApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD967Q0fDYWFVhhO6U954M95BRiFqmVH3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
